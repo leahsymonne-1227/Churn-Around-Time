@@ -1,0 +1,23 @@
+customer_name,email,company,interaction_date,interaction_type,call_count,review,call_log
+Susie Harper,susie.harper@northstar.example,Northstar Health,2026-10-02,Support call,1,2 stars,"Called again about the billing credit. Susie said, ""I have called three times and this still is not fixed."" She sounded upset and annoyed."
+Susie Harper,susie.harper@northstar.example,Northstar Health,2026-10-04,Customer review,0,1 star,Unhappy with support. I was promised a follow-up and nobody called. This is frustrating.
+Susie Harper,susie.harper@northstar.example,Northstar Health,2026-10-06,Support call,1,,Susie called about the same invoice again. She said she is disappointed and may cancel if the problem is not fixed this week.
+Susie Harper,susie.harper@northstar.example,Northstar Health,2026-10-08,Support call,1,,Fourth contact about the billing credit. Susie said she feels ignored and is considering switching providers.
+Marcus Chen,marcus.chen@brightpath.example,BrightPath Learning,2026-10-01,Support call,1,3 stars,Marcus called because the class roster export is broken. He is frustrated that the workaround takes hours.
+Marcus Chen,marcus.chen@brightpath.example,BrightPath Learning,2026-10-03,Customer review,0,2 stars,Still waiting for the roster fix. This is disappointing and we are looking at other options.
+Marcus Chen,marcus.chen@brightpath.example,BrightPath Learning,2026-10-07,Support call,1,,Called to ask for an update. Marcus said the delay is unacceptable and asked to speak with a manager.
+Nina Patel,nina.patel@willow.example,Willow Design,2026-10-02,Customer review,0,5 stars,Excellent onboarding experience. The team was helpful and the setup was easier than expected.
+Nina Patel,nina.patel@willow.example,Willow Design,2026-10-05,Success call,1,,Nina said the product is working well. She loves the shared workspace and thanked the onboarding specialist.
+Nina Patel,nina.patel@willow.example,Willow Design,2026-10-09,Customer review,0,5 stars,Great support and a quick answer to our question. I would recommend the product.
+Owen Walker,owen.walker@evergreen.example,Evergreen Studio,2026-10-01,Success call,1,5 stars,Owen said everything is going great and the team is happy with the monthly reports.
+Owen Walker,owen.walker@evergreen.example,Evergreen Studio,2026-10-04,Customer review,0,5 stars,Excellent service. The reports are clear and helpful.
+Owen Walker,owen.walker@evergreen.example,Evergreen Studio,2026-10-08,Success call,1,,Owen thanked the team for resolving a small question quickly. He would recommend the service.
+Priya Shah,priya.shah@redwood.example,Redwood Supply,2026-10-02,Support call,1,3 stars,Priya asked for help with a confusing invoice. She was concerned about the extra line item but appreciated the explanation.
+Priya Shah,priya.shah@redwood.example,Redwood Supply,2026-10-05,Customer review,0,3 stars,"The invoice was better this month, though the account setup is still a little confusing."
+Priya Shah,priya.shah@redwood.example,Redwood Supply,2026-10-09,Support call,1,,Priya called with one more setup question. She said the answer was helpful and the issue is resolved.
+Theo Brooks,theo.brooks@harbor.example,Harbor Metrics,2026-10-03,Customer review,0,4 stars,Very happy with the recent improvements. The new dashboard is great.
+Theo Brooks,theo.brooks@harbor.example,Harbor Metrics,2026-10-06,Success call,1,,Theo said the team loves the new dashboard and the response from support was excellent.
+Theo Brooks,theo.brooks@harbor.example,Harbor Metrics,2026-10-10,Customer review,0,5 stars,Excellent product and helpful people. We would recommend it.
+Tara Brooks,tara.brooks@fieldstone.example,Fieldstone Group,2026-10-01,Support call,1,2 stars,Tara called about a broken renewal report. She is frustrated that this problem is still open.
+Tara Brooks,tara.brooks@fieldstone.example,Fieldstone Group,2026-10-04,Customer review,0,1 star,Angry and disappointed. Support has not resolved the issue and I am unhappy with the response.
+Tara Brooks,tara.brooks@fieldstone.example,Fieldstone Group,2026-10-08,Support call,1,,"Tara called again, annoyed that there is no fix. She may cancel and switch providers if this continues."
